@@ -1,8 +1,8 @@
-//10:09
 #include <iostream>
 #include <stack>
 #include <queue>
 #include <vector>
+#include <algorithm>
 using namespace std;
 
 int picture_max_size;
